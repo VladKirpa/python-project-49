@@ -1,0 +1,56 @@
+# venv 
+.env
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.env.local
+.env.development
+.env.test
+.env.production
+
+# cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# logs
+*.log
+*.sqlite
+*.sqlite3
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# files
+pip-delete-this-directory.txt
+pip-selfcheck.json
+
+# distribution
+build/
+dist/
+*.egg-info/
+*.egg
+*.manifest
+*.spec
+
+# test cache
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# temporary files
+temp/
+tmp/
