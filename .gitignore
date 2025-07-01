@@ -36,6 +36,8 @@ Thumbs.db
 # files
 pip-delete-this-directory.txt
 pip-selfcheck.json
+.python-version
+
 
 # distribution
 build/
