@@ -10,3 +10,5 @@ build:
 package-install:
 		uv tool install dist/*.whl
 
+package-reload:
+		uv tool install --force dist/*.whl
