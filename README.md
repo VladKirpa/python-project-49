@@ -3,8 +3,6 @@
 
 # BRAIN GAMES
 
-![Build](https://img.shields.io/github/actions/workflow/status/VladKirpa/python-project-49/python-app.yml?label=build)
-![License](https://img.shields.io/github/license/VladKirpa/python-project-49)
-![Language](https://img.shields.io/github/languages/top/VladKirpa/python-project-49)
-![Last commit](https://img.shields.io/github/last-commit/VladKirpa/python-project-49)
-![flake8](https://img.shields.io/badge/code%20style-flake8-brightgreen)
+# brain-even game
+demonstration : https://asciinema.org/a/KDhXSXPHiEt8ZTRcd7bhMcLGk
+
