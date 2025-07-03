@@ -12,3 +12,8 @@ package-install:
 
 package-reload:
 		uv tool install --force dist/*.whl
+
+brain-even:
+		uv run brain-even
+
+	
