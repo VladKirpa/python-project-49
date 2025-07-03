@@ -1,7 +1,9 @@
-import brain_games.cli as cli
 import prompt
 
+import brain_games.cli as cli
+
 ROUNDS = 3
+
 
 def run_game(game):
 
@@ -20,6 +22,5 @@ def run_game(game):
         else: 
             print('Correct!')
     
-
         print(f'Congratulations, {cli.name}!')
 

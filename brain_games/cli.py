@@ -2,6 +2,7 @@ import prompt
 
 name = None
 
+
 def welcome_user():
     global name
     print('Welcome to the Brain Games!')

@@ -1,7 +1,7 @@
-from random import randint, choice
-from brain_games.scripts.brain_engine import run_game
+from random import choice, randint
 
 RULES = 'What is the result of the expressions ?'
+
 
 def get_question_answer():
 
@@ -20,10 +20,4 @@ def get_question_answer():
             correct_answer = first_num * second_num
 
     return question, str(correct_answer)
-
-def main():
-    run_game()
-
-if __name__ == '__main__':
-    main()
 
