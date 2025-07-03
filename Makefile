@@ -13,12 +13,17 @@ package-install:
 package-reload:
 		uv tool install --force dist/*.whl
 
+ruff-fix:
+		uv run ruff check --fix
+
 brain-even:
 		uv run brain-even
 
 brain-calc:
 		uv run brain-calc
 
+brain-gcd:
+		uv run brain-gcd
 
 
 
