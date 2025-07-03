@@ -6,3 +6,8 @@
 # brain-even game
 demonstration : https://asciinema.org/a/KDhXSXPHiEt8ZTRcd7bhMcLGk
 
+# brain-calc game 
+demonstration : https://asciinema.org/a/LEgmyaVc1zk4z5pPnwiISM7zk
+
+
+
