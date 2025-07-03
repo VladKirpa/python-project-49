@@ -4,9 +4,9 @@ import brain_games.cli as cli
 
 ROUNDS = 3
 
-
 def run_game(game):
-
+    
+    win_counter = 0
     cli.welcome_user()
     print(game.RULES)
     
@@ -20,7 +20,9 @@ def run_game(game):
             print(f"'{user_answer}' is wrong answer ;(. Correct answer was '{correct_answer}' \nLet's try again, {cli.name}")
             break
         else: 
+            win_counter += 1
             print('Correct!')
-    
+        
+    if win_counter == 3:
         print(f'Congratulations, {cli.name}!')
 
