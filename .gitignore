@@ -37,6 +37,7 @@ Thumbs.db
 pip-delete-this-directory.txt
 pip-selfcheck.json
 .python-version
+*.cast
 
 
 # distribution
