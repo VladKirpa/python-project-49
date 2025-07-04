@@ -16,7 +16,7 @@ def is_prime(x):
 def get_question_answer():
 
     question = random.randint(2, 70)
-    correct_answer = 'yes' if is_prime(question) == True else 'no'
+    correct_answer = 'yes' if is_prime(question) else 'no'
     
     return question, str(correct_answer)
 
