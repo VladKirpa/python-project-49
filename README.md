@@ -18,14 +18,6 @@ Are you smart enough to beat them all?
 
 ---
 
-## 🚀 Quick Start
-
-Install the package:
-
-```bash
-pip install brain-games
-
-
 # BRAIN GAMES DEMOSTRATION
 
 # brain-even game
