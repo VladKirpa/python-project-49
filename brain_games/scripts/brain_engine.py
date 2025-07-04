@@ -13,7 +13,7 @@ def run_game(game):
     
     for _ in range(ROUNDS):
         question, correct_answer = game.get_question_answer()
-        print(f'Question : {question}')
+        print(f'Question: {question}')
         
         user_answer = prompt.string('Your answer: ')
 
