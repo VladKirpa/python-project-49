@@ -12,6 +12,11 @@ demonstration : https://asciinema.org/a/xJ3phwdtsA7wY71uSU9btfpAG
 # brain-gcd game 
 demonstration : https://asciinema.org/a/FeWwaMja5mM4wRgH2X8JDGW2m
 
+# brain-progression game
+demonstration : https://asciinema.org/a/9JB0t5neht1tQ0EVg9AyEXndZ
+
+
+
 
 
 
