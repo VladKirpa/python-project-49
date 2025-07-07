@@ -1,6 +1,9 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/VladKirpa/python-project-49/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/VladKirpa/python-project-49/actions)
 [![Maintainability](https://qlty.sh/gh/VladKirpa/projects/python-project-49/maintainability.svg)](https://qlty.sh/gh/VladKirpa/projects/python-project-49)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=VladKirpa_python-project-49&metric=alert_status)](https://sonarcloud.io/dashboard?id=VladKirpa_python-project-49)
+[![Maintainability](https://sonarcloud.io/api/project_badges/measure?project=VladKirpa_python-project-49&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=VladKirpa_python-project-49)
+
 # 🧠 Brain Games
 
 > **A simple command-line game pack that challenges your logic and math skills.**
